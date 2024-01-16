@@ -41,7 +41,6 @@ Welcome to the Dice Game repository! This project is a simple and entertaining g
 
 ## Additional Information
 
-- This project is a personal endeavor and may still be in active development.
+- This project is a personal endeavor.
 - Contributions and suggestions for improvements are welcome.
 - The game's features and user interface can be enhanced with additional functionalities or visual enhancements.
-- Have fun playing the React Dice Game, and may the dice be ever in your favor! 🎲
